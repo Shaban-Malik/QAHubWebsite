@@ -49,10 +49,10 @@ p.simple-card {
   
 /* new change */
 
-  /* .hv-item-child {
+  .hv-item-child {
     word-wrap: break-word;
     width: fit-content !important;
-  } */
+  }
   /* new change */
 
 .management-hierarchy {
@@ -80,7 +80,7 @@ p.simple-card {
       color: #ee2938;
       margin: 12px 0 0 0;
       position: relative;
-      width: 50
+      /* width: fit-content */
       }
       .management-hierarchy .person > p.name b {
         color: #0e2233;
